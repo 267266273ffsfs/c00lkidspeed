@@ -8,7 +8,7 @@ local player = Players.LocalPlayer
 
 -- Cria Tool
 local tool = Instance.new("Tool")
-tool.Name = "SPEED GONER"
+tool.Name = "SPEED C00LKID"
 tool.RequiresHandle = false
 tool.Parent = player.Backpack
 
